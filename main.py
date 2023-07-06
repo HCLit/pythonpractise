@@ -1,0 +1,1 @@
+print("200 you have the paid the amt")
